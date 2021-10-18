@@ -13,4 +13,4 @@ Electromagnetic wave analysis using Finite Difference-Time Domain method for Tot
 
 ![](https://github.com/ammokun/ammokun/blob/54756fec11f376cc49f12da7ac9d387a13b24690/animation_ne.gif)
 
-🤫
+わかる人にはわかる🤫
